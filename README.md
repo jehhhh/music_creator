@@ -1,5 +1,5 @@
-# music_creator
-ai will generate music
+# Music generator using ML
+
 
 #Overview
 Use TensorFlow to generate short sequences of music with a [Restricted Boltzmann Machine](http://deeplearning4j.org/restrictedboltzmannmachine.html). 
