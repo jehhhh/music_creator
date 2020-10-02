@@ -1,10 +1,10 @@
 # Music generator using ML
 
 
-#Overview
-Use TensorFlow to generate short sequences of music with a [Restricted Boltzmann Machine](http://deeplearning4j.org/restrictedboltzmannmachine.html). 
+# Overview
+## Use TensorFlow to generate short sequences of music with a [Restricted Boltzmann Machine](http://deeplearning4j.org/restrictedboltzmannmachine.html). 
 
-#Dependencies
+# Dependencies
 
 * Tensorflow
 * pandas
@@ -15,7 +15,7 @@ Use TensorFlow to generate short sequences of music with a [Restricted Boltzmann
 
 missing dependencies can be downloaded using pip
 
-#getting started
+# getting started
 
 To train the model and create short clips, just install all the dependencies and clone this directory and run 
 
