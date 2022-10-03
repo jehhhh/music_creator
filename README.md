@@ -13,17 +13,17 @@
 * glob
 * tqdm 
 
-missing dependencies can be downloaded using pip
+Missing dependencies can be downloaded using pip
 
-# getting started
+# Getting started
 
 To train the model and create short clips, just install all the dependencies and clone this directory and run 
 
-python rbm_chords.py
+`python rbm_chords.py`
 
-in the terminal, then 
+In the terminal, then 
 type
 
-python merge_samples.py
+`python merge_samples.py`
 
-to merge all clips into a final one. Then play the final.mid to enjoy the music usingan appropriate player.
+To merge all clips into a final one. Then play the final.mid to enjoy the music usingan appropriate player.
